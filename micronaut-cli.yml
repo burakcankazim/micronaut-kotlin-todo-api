@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.burakcan.todo
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jpa, gradle, h2, http-client, jackson-databind, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-build, mockito, netty-server, openapi, readme, shade, yaml]
